@@ -1,0 +1,11 @@
+Package Creation:
+
+npm init
+
+Server Start: node filename.js
+
+We can use 
+
+npm start ,  if we just gave the command in the package.json in scripts as "start".
+
+npm run filename , if we gave the command in the package.json in scripts as filename.

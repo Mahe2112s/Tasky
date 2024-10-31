@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "Mahesh": "node index.js",
+    "dev" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahe2112s/Tasky.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahe2112s/Tasky/issues"
+  },
+  "homepage": "https://github.com/Mahe2112s/Tasky#readme",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
